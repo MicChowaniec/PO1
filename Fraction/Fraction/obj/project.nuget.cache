@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "rBatS0hRBu3XKLPvD5n7p6Y6rhQTlOqQwBXSYEu416C2b7evkuzC7owI0QlYLybM4hHx0XuBUonyly+qdM/vug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\Source\\Repos\\MicChowaniec\\PO1\\Fraction\\Fraction\\Fraction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
